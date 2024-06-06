@@ -34,6 +34,7 @@ struct ContentView: View {
                 ProgressView()
                     .controlSize(.extraLarge)
                     .progressViewStyle(CircularProgressViewStyle())
+                    .tint(.red)
                     .padding()
             }
         }
