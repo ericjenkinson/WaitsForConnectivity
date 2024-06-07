@@ -19,6 +19,7 @@
 		BA7BB2242C12669200637DE8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA7BB2262C12669600637DE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA7BB2292C12669600637DE8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BA7BB2302C12739200637DE8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		BA7BB2162C12669200637DE8 = {
 			isa = PBXGroup;
 			children = (
+				BA7BB2302C12739200637DE8 /* README.md */,
 				BA7BB2212C12669200637DE8 /* WaitsForConnectivity */,
 				BA7BB2202C12669200637DE8 /* Products */,
 			);
